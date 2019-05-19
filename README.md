@@ -1,3 +1,3 @@
 # tokeaweb
 
-Fornt page for Tokea website
+Front page for Tokea website
